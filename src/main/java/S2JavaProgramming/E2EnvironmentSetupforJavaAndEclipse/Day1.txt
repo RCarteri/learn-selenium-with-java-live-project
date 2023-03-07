@@ -1,0 +1,87 @@
+Day-1
+--------
+Java 
+---------
+what is java?
+ purely object oriented programming language.
+
+types of programming languages
+---------
+1) structured - C , python
+2) object based - VB, VBScript , python
+3) object orietend - C++, Java, C#, python
+
+oops
+---
+1) class
+2) object
+3) polymorphisn
+4) Inheritenace
+5) abstraction
+6) Encapsulation
+
+Features
+-----
+1) platform independent
+2) case sensitive language
+
+print()
+PRINT()
+
+3 Components
+----------
+JDK ( Java) - Java Developement Kit
+JRE - Java RunTime Environment
+JVM - Java Virtual Machine
+
+
+1) Core Java
+2) Advanced java
+
+
+Java 8 --- Sun Microsystems
+Java 9---- Oracle
+Java 11+   prefarable automation
+
+JDK 11
+Eclipse IDE / IntelliJ IDE/ Net Beans
+
+Download & Install Java
+-------------------------------
+step1) downlaod & install JDK
+
+step2) set jdk path 
+C:\Program Files\Java\jdk-11.0.15\bin
+
+	Right click mypc--> properties-->Advanced system settings
+-->Environemnt varaibles button-->system variables
+-- select path varaible--> click on EDIT
+--> Click on New button-paste your JDK Path.
+
+step3) open command prompt
+	java -version
+
+Mac OS links:
+----------------
+How to install Java on Mac :
+---------------
+https://www.youtube.com/watch?v=UXreD6NCC3g
+
+How to install Eclipse on maC
+------------
+https://www.youtube.com/watch?v=T26Qa6k4zZ8
+
+Download & Install Eclipse
+------------------
+Follow the link
+https://www.eclipse.org/downloads/packages/installer
+
+1) Class name should start with upper case letter
+2) Should not start with numbers ( we can have numbers in the middle of the name)
+3) should not use special characters ~ ! %&*  ete..... (_ is accepted in the midle of class name)
+4) Do not give spaces
+
+
+
+
+

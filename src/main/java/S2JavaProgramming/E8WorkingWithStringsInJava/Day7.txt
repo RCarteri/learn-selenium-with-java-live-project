@@ -1,0 +1,47 @@
+Day-7
+------
+Strings
+-----------------
+
+String name="John";
+String name=new String("John");
+
+
+equals()
+
+==
+
+
+
+
+Assignments
+------------
+1) Reverse a string
+
+s="abc"
+reverse string: cba
+
+Ref link: https://www.youtube.com/watch?v=1_hhywLAO5o&list=PLUDwpEzHYYLtgkXK6YaZ4I2XcsjMqIaEa&index=3
+
+
+
+2) Check string is palidrome or not
+madam
+madam  - palindrome
+
+Ref Link: https://www.youtube.com/watch?v=8BlUi4-4N4E&list=PLUDwpEzHYYLtgkXK6YaZ4I2XcsjMqIaEa&index=5
+
+
+3) Check string presence in array
+
+4) swap 2 strings
+
+x="john"
+y="david";
+
+
+
+
+
+
+

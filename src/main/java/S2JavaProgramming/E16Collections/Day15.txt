@@ -1,0 +1,35 @@
+    Day-15
+----------
+Collections
+-----------
+Collection - To represent group of elements/objects/data into single entity then go for collections.
+
+"Collection" is interface which is available in java.util package..
+
+
+Arrays
+--------
+1) Size of array is fixed
+2) Heterogenious data not allowed ( multiple data values)
+
+ArrayList - is class implemeted List interface
+-----
+1) Heterogenious data - allowed
+2) Insertion order- preserved(Index)
+3) Duplicate elements -- allowed
+4) multiple nulls -- allowed
+
+HashSet   - a class implemented Set interface
+---------
+1) Heterogenios data ---> allowed
+2) Insertion order  --> Not preserved (Index not supported)
+3) Duplicate elements --> Not Allowed
+4) Multiple nulls Not allowed/ only single null is allowed
+
+HashMap - a class implemented Map interface
+--------------
+Data can be stored in the form of key, value pairs.
+Key is unique. But we can have duplicate values.
+Insertion order not preserved(Index not followed)
+
+

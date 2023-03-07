@@ -1,0 +1,54 @@
+Day-14
+---------
+Exception handling
+-----------------
+
+Errors
+------
+1) Syntax
+2) Logical
+
+Exception occures when the user provided invalid input to the program.
+Exception is an event which will cause program termination.
+
+1) Checked exceptions
+	The exceptions which are identified by java compiler.
+	
+	Ex: Interupted exception
+     		FileNotFound
+		IOException
+
+2) Un-checked exceptions
+	The exceptions which are not identified by java compiler.
+Ex:
+		ArithmeticExeption
+		NullPointerException
+		ArrayIndexOutOfBoundsException etc...
+			etc...
+
+try..catch block
+try..catch..finally
+
+try
+{
+------
+}
+catch(Exception e)
+{
+-----
+}
+finally
+{
+----
+}
+
+case1: Exception occured, catch block handled ---> finally block will execute
+case2: Exception occured, catch block NOT handled --> finally block will execute
+case3: Exception does not occured, catch block ignored ----> finally block will execute
+
+
+
+
+
+
+

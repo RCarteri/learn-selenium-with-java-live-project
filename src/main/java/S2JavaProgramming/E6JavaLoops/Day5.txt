@@ -1,0 +1,121 @@
+Day-5
+-------
+Looping statements/Iterative statements
+------------
+while loop
+do while  loop
+for loop
+
+Enhanced for loop/ for each loop - arrays & collections
+
+1...10 numbers
+
+sop(1)
+sop(2)
+sop(3)
+----
+---
+sop(10)
+
+
+while loop
+---------------
+while(condition)
+{
+statements;
+inc/dec;
+}
+
+
+do...while
+----------------
+do
+{
+statements;
+inc/dec;
+}while(condition);
+
+
+
+for loop
+----------
+for(initilization; condition; inc/dec )
+{
+statements;
+}
+
+
+
+
+1) Looping statements
+     conditional statements
+
+2) Conditional statements
+	   looping statements
+
+
+int i=1;
+
+boolean flag=true;
+
+if(flag)
+{
+
+}
+
+control statements
+--
+1) conditional
+2) looping
+3) jumping statements - break , continue
+
+
+bike----> source , destination, fuel       - for
+bus---->     do... while
+flight ---> while 
+
+Assignments
+---------
+
+1) Reverse a number (  %   / =   operators   )
+
+input 1234
+output 4321
+
+video link: https://www.youtube.com/watch?v=m0lMpNIG6vU
+
+2) Palindrome number
+input 121
+after reversing 121
+Video link: ?????
+
+3) Count Number of Digits in a Number
+
+Input : 423424
+output : 6
+
+Video Link: https://www.youtube.com/watch?v=CnFBzBMEdMg
+
+
+4) count Number of Even and Odd digits in a Number
+Input: 23456
+Output : 3 even  2 odd
+
+Video Link: https://www.youtube.com/watch?v=Ns4LoG56SZ4
+
+5) Find sum of digits in a number
+
+input : 1234
+sum= 10 
+
+Video Link: https://www.youtube.com/watch?v=ZLaBlxnmrxc
+ 
+
+
+
+
+
+
+
+
+

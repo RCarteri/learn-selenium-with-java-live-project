@@ -1,0 +1,57 @@
+Day-13
+--------
+Access modifiers
+-------------
+public - we can access everywhere
+protected - we can access  outside of the package but through inheritance
+default - only within the package
+private - only within the class
+
+Wrapper Classes
+-----------------
+The wrapper class in Java provides the mechanism to convert primitive into object and object into primitive.
+
+byte              Byte
+short			Short
+int				Integer
+long			Long
+float			Float
+double		Double
+char			Character
+booelan		Boolean
+
+
+String    lenght() sunstring() trim() etc....
+String s="welcome"
+
+Data Conversion methods
+--------------
+String s1="10.50";
+String s2="20"
+String s="true"
+
+String  ----> int          Integer.parseInt()
+String -----> double   Double.parseDouble()
+String ----> boolean	Boolean.parseBoolean()
+
+
+int phoneno=12312387;
+
+int ----> String       String.valueOf(data)
+double--->String   String.valueOf(data)
+booelan --->String    String.valueOf(data)
+char---->String       String.valueOf(data)
+
+String -->char  ( not possible)
+
+
+
+
+
+
+
+
+
+
+
+

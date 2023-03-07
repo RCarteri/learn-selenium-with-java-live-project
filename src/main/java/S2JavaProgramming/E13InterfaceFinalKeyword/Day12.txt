@@ -1,0 +1,65 @@
+Day-12
+-------
+
+final
+------
+Variables - we cannot change the value of variable ( constant)
+methods - we cannot override methods in the child class
+classes - we cannot extend the class in to another class
+
+Data Abstration
+
+Interface
+-------------
+Abstraction is a process of hiding the implementation details 
+and showing only functionality to the user.
+
+Interface
+-------------
+An intgerface is a blue print of class.
+Interface contains final & Static variables.
+Interface contains abstract methods.( also allowed default methods & Static methods from java8 onwards)
+An abstract method is a method contains definition but not body(Un-implemented method).
+Methods in interface are public.
+Interface supports the functionality of multiple inheritance.
+We can define interface with interface keyword.
+A class extends another class, an interface extends another interface but a class implements an interface.
+We can create Object reference for Interface but we cannot instantiate interface.
+
+class C1
+{
+Variables
+final static int x=10;
+
+methods
+void m()    //default
+	{
+	//code
+	}
+}
+
+interface I1
+{
+Variables
+methods
+m();
+}
+
+
+void m()
+{
+//code
+}
+
+void m();   // abstract method
+
+
+
+
+public
+default
+protected
+private
+
+
+

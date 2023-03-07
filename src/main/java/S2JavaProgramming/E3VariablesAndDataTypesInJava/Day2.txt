@@ -1,0 +1,94 @@
+Day-2
+---------
+variable is a container which can hold data
+
+x=100;
+itemprice=10.50
+age=30
+
+int x=100
+float  itemprice=10.50;
+String name="john";
+
+Data types
+------------------
+1) premitive
+
+byte, short, int, long --->integer number
+float, double ----------> decimal numbers
+char   --------------> single character
+boolean ------------> true/false
+
+
+2) Non-premitive/ collections/derived data types
+
+String
+ArrayList
+HashSet
+HashMap
+etc....
+
+
+Data 	Type	Size			Description
+--------------------------------------------------
+byte			1 byte			Stores whole numbers from -128 to 127
+short	   		2 bytes	    	Stores whole numbers from -32,768 to 32,767
+int				4 bytes			Stores whole numbers from -2,147,483,648 to 2,147,483,647
+long			8 bytes			Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+
+float	   		4 bytes		   Stores fractional numbers. Sufficient for storing 7 decimal digits
+double		8 bytes		   Stores fractional numbers. Sufficient for storing 15 decimal digits
+
+boolean		1 bit		      Stores true or false values
+char			2 bytes			Stores a single character/letter 
+
+character represent with   '  '
+String represents with  "  "
+
+
+------------------------------
+statically typed langauge
+
+1) int  x;
+	data type must be specified
+
+2) int x;
+    flaat x;   // not allowed
+
+3) int  x=100;
+ x=200;   // change the value of the variable is possible
+
+
+----------------------------------------------------
+Python is dynamically typed language
+
+
+x=100;
+x=10.50
+x="john"
+x=true
+
+
+
+String str="john"
+Syso(str)
+
+char c='A';
+Syso(c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

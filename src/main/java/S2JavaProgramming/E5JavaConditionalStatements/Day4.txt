@@ -1,0 +1,98 @@
+Day-4
+---------------
+Control Statements
+--
+1) Conditional statements
+2) Looping statements / Iterative
+3) Jumping statements
+
+Conditional statements
+----------------
+1) if 
+2) if else
+3) nested if else / if .else ladder
+4) switch case
+
+if
+----------
+if(condition)
+{
+statemetns;
+}
+
+if....else
+------
+if(condition)
+{
+statements
+}
+else
+{
+other set of statements
+}
+
+Example1: personAge>=18   eligible for vote
+		      personAge<18  Not eligible for vote
+
+Example2:  Even or odd
+num=10   Even
+num=5   Odd
+
+
+Example3: 
+input :   number
+Positive
+Nagitive
+Zero
+
+Example 4: Largest of 3 numbers
+
+a, b, c
+
+a>b and a>c   a is largest
+b>a and b>c   b is largest
+c>a and c>b  c is largest
+
+
+Example 5: 
+num between 1--7   
+print week names 
+
+switch case statement
+-------------------
+
+switch(variable)
+{
+case "value1"  :  statements;
+				      break;
+
+case "value2: statements;
+					break;
+---
+---
+---
+default : statments;
+}
+
+1)will not support strings, Boolean, Character, Long...
+2) additionally we use 'break' in every case
+
+
+Assignments
+--------------
+1) largest of 2 numbers  ( if..else   & Ternary)
+2) smallest of 3 numbers  ( if..else)
+3) print month name by taking month number ( 1-12) using switch case..
+
+
+
+
+
+
+
+
+
+
+
+
+

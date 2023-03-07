@@ -1,0 +1,56 @@
+Day-8
+--------
+class
+object
+methods
+
+class is collection of attributes and behavior.
+object is an instance of class.
+
+Animal --- Dog, Elephant, Horse etc...
+
+Student --- Kim, David, Scott...
+
+Employee --- John, David, Smith etc..
+
+class
+------
+-> Logical entity/Blue print
+-> will not occupy any space in memory
+-> Class contains variables & methods
+
+
+object
+-----------
+-> Physical entity
+-> needs space in memory
+-> an instance of a class
+-> we can create any number of objects for 1 class
+-> objects are independent
+
+
+
+
+class Employee
+{
+//variables
+//methods
+}
+
+
+creatign an object
+---------------------
+
+Employee emp1=new Employee();
+Employee emp2 =new Emplyee();
+
+
+
+
+
+
+
+
+
+
+

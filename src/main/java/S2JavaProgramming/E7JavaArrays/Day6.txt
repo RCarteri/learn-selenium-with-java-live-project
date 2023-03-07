@@ -1,0 +1,107 @@
+Day-6
+-------------
+Arrays
+------------
+
+int a=100;
+a=200;
+
+Array is collection elements of same data type(Homogenios data).
+We can store multiple values into a single variable.
+
+int a[]=new int[100];
+
+(or)
+
+int []a=new int[100];
+
+2 types of arrays
+---------
+1) Single dimensional
+2) two dimensional/multidimensional
+
+Single dimensional
+----------------------
+1) Declare an array
+2) insert values into array
+3) Find size of an array
+4) read single value from an array
+5) read multiple values from an array
+
+
+for..each loop( enhanced for loop)
+
+a[]
+[]a
+
+
+2 dimensional array
+------------------
+
+object array
+
+int a=10;
+
+double a=10.5
+
+String s="welcome"
+
+Object a="welcome"
+
+
+int a[]=new int[5];
+String a[]=new String[5];
+
+Object a[]=new Object[5];
+
+Assingments
+---------------
+
+Assignments
+------------
+1) Find Sum of Elements in Array
+a={1,2,3,4,5}
+Sum=15
+
+Ref Video: https://www.youtube.com/watch?v=BDvYp3GbfU4
+
+2) Print Even and Odd numbers  from array.
+a={1,2,3,4,5,6}
+Even= 3
+Odd=3
+
+Ref Link: https://www.youtube.com/watch?v=e3x0bnOrcAA
+
+3) Search an element in array
+a={10,20,30,40,50}
+num=30
+
+4) Sorting elements
+a={50,20,40,10,100}
+
+after sorting 10 20 40 50 100
+
+Ref Links: 
+https://www.youtube.com/watch?v=cJ2eMUiCFy4
+https://www.youtube.com/watch?v=3PLtvTUOCpM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

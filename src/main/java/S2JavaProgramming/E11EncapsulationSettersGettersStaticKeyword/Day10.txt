@@ -1,0 +1,94 @@
+Day-10
+-------
+Encapsulation
+---
+
+wrapping up of data and methods in to single unit(class).
+
+all variables should be private.
+
+we can access variables only through methods(setters & getters)
+
+
+static
+-------
+
+1) static methods can access static stuff directly ( without object).
+2) static methods can access non-static stuff through object
+3) non-static methods can access everything directly.
+
+
+System.out.println()
+
+
+
+
+class Test
+{
+	static String s="welcome";
+
+}
+
+
+Test.s.lenght()    -- 7
+
+
+
+
+class System
+{
+
+	static PrintStream out;
+}
+
+
+System.out.println("welcome")
+System.out.print("welcome")
+
+
+JVM - Java Virtual Machine
+
+
+public static void main(String []args)
+{
+
+}
+
+---------------
+
+
+class Test
+{
+
+
+public static void main(String []args)
+{
+
+}
+
+
+
+
+int a=10;
+
+String s="welcome";
+
+String s=new String("welcome");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

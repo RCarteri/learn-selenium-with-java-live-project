@@ -1,0 +1,74 @@
+Day-9
+------
+Method - block or group of statements which will perform certain task.
+ we have to call the method though object.
+
+1) No Params   No return value
+2) No Params   Return value
+3) Take params  No Return
+4) Take params  Return a value
+
+
+Method:
+-----------------
+1) Method name can be anything
+2) Method may or may not return a value
+3) If method is not returnign any value then specify void
+4) Method can take parameters/arguments
+5) We have to invoke/call methods explicitely through object
+6) used for specifying logic
+
+
+Constructor
+-------------
+1) Constructor name should be same as class name.
+2) Constructor will never return a value
+3) We dont specify the void
+4) Constructor can take parameters/arguments
+5) Constructor automatically invoked at the time of object creation.
+6) used for initilizing the values of the variables.
+
+
+Polymorphism
+-------------
+
+one thing can have many forms...
+
+Shape - circle,  square, triangle, rectangle
+water -  vapour, ice burg
+
+polymorphism can achive using overloading concept..
+
+Req:  As a user , add numbers ( 2, 3, 4 ....)
+---
+
+add(10,20);
+add(10,20,30);
+add(10,20,30,40);
+-------
+
+addtwo(10,20)
+addthree(10,20,30)
+addfour(10,20,30,40)
+
+4 rules are applicable in overloading
+-----------
+1) Method names should be same
+2) number of parameters should be different
+3) Data type of parameters should be different
+4) Order of parameters should be different
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

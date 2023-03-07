@@ -1,0 +1,73 @@
+Day-11
+-------
+Inheritence
+----------------
+
+Aquiring all the properties(Variables) & behaviour(methods) from one class to another class is called inheritance.
+
+class  A--- varaibles & methods
+
+class B --- variables & methods
+
+
+class B extends A
+{
+}
+
+A  - Parent / Super/ Base
+B - Child /Sub /Derived
+
+objectives
+-----
+1) re-usability
+2) avoid duplication
+
+types
+----------
+1) Single
+2) Multi level
+3) Hierarchy
+4) Multiple 
+
+
+Object --- root class of all the classes
+
+overriding
+
+Method Overriding:
+---------
+1) Possible only in  Multiple classes/inheritance.
+2) We should NOT change the definition of the method but body we should change.
+3) method names are same
+4) Related to inheritence
+
+Method Overloading
+-------------------
+1) Possible in Single & Multiple classes/inheritance
+2) We should change the definition of the method
+3) method names are same.
+4) Related to polymorphism
+
+super
+---
+1) super keywork invokes immediate parent class variable
+2) super keyword invokes immediate parennt class method
+
+
+keywords
+----------
+static
+this
+super
+final - next session
+
+
+
+
+
+
+
+
+
+
+
