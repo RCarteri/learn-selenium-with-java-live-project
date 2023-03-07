@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b1fa2fb-bdf7-4dfa-bccd-11abfec593f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S1OverviewOnSoftwareTestingAndAutomation/Day1-Overview+on+Automation+&amp;+Selenium.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E10JavaMethodsConstructorsPolymorphismOverloading/Day9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E11EncapsulationSettersGettersStaticKeyword/Day10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E12JavaInheritanceOverridingSuperKeyword/Day11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E13InterfaceFinalKeyword/Day12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E14PackagesAccessModifierWrapper/Day13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E15Exception/Day14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E15Exception/E16Collections/Java_fullnotes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E16Collections/Collections.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E16Collections/Day15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E2EnvironmentSetupforJavaAndEclipse/Day1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E2EnvironmentSetupforJavaAndEclipse/FirstJavaProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E2EnvironmentSetupforJavaAndEclipse/How+to+install+Java+JDK+11+on+Windows.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E2EnvironmentSetupforJavaAndEclipse/SecondJavaProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E3VariablesAndDataTypesInJava/DataTypesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E3VariablesAndDataTypesInJava/DataTypesDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E3VariablesAndDataTypesInJava/Day2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E3VariablesAndDataTypesInJava/NumbersStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E4JavaOperators/Day3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E5JavaConditionalStatements/Day4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E6JavaLoops/Day5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E7JavaArrays/Day6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E8WorkingWithStringsInJava/Day7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S2JavaProgramming/E9JavaOOPSClassObjectMethod/Day8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S3SeleniumWebDriver/E17IntroductionWebDriverSettingupWebDriverEnvironment/Day16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Java/apache-maven-3.9.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Mgaw7N4JOldOTfjNlc4XHnaB85" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S3SeleniumWebDriver/E17IntroductionWebDriverSettingupWebDriverEnvironment",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S3SeleniumWebDriver\E17IntroductionWebDriverSettingupWebDriverEnvironment" />
+      <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S2JavaProgramming\E16Collections" />
+      <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S2JavaProgramming\E15Exception" />
+      <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S2JavaProgramming\E14PackagesAccessModifierWrapper" />
+      <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S2JavaProgramming\E13InterfaceFinalKeyword" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b1fa2fb-bdf7-4dfa-bccd-11abfec593f5" name="Changes" comment="" />
+      <created>1678191917157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678191917157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
