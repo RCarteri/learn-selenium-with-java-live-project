@@ -7,16 +7,16 @@ public class SwithcCaseDemo2
 	{
 		
 		int person_age=15;
-		
-	
-		switch(person_age)
-		{
-		
-		case: (person_age<15): System.out.println("Eligible for vote");
-		
-		
-		}
-		
+
+
+//		switch(person_age)
+//		{
+//
+//		case (person_age<15): System.out.println("Eligible for vote");
+//
+//
+//		}
+//
 			
 	}
 

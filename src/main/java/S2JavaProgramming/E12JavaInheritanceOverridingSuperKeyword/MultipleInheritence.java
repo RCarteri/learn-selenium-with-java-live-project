@@ -34,7 +34,7 @@ public class MultipleInheritence {
 		
 		XYZ xyzobj=new XYZ();
 		
-		xyzobj.
+		xyzobj.m1(1);
 	
 		
 	}

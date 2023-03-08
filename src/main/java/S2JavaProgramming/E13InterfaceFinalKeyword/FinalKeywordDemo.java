@@ -12,7 +12,7 @@ public class FinalKeywordDemo {
 	
 		Test t=new Test();
 		
-		t.x=200; // incorrect, bcoz x is final variable
+		//t.x=200; // incorrect, bcoz x is final variable
 		
 		System.out.println(t.x);
 
