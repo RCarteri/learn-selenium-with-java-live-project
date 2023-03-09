@@ -24,7 +24,7 @@ public class FixedDepositCalculator {
 		driver.get("https://www.moneycontrol.com/fixed-income/calculator/state-bank-of-india-sbi/fixed-deposit-calculator-SBI-BSB001.html");
 		driver.manage().window().maximize();
 		
-		String file=System.getProperty("user.dir")+"\\testdata\\caldata.xlsx";
+		String file="src/main/java/S4ApachePOIDataDrivenTestingUsingMSExcel/E34DataDrivenTestingUsingExcel/caldata.xlsx";
 		
 		int rows=ExcelUtils.getRowCount(file, "Sheet1");
 		
