@@ -1,0 +1,19 @@
+Day-39
+-------
+Page object Model pattern
+---------------
+
+WebElement ele=driver.findElement(By.id('xyz'));
+
+
+By loc=By.id('xyz');
+
+
+driver.finElement(loc).sendKeys()
+
+
+2 appraoches to create page object classes
+-----------------------------
+1) Without using Page Factory(Normal appraoch)
+2) Using Page Factory
+
