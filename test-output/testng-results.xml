@@ -1,39 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-09T10:18:17 BRT" name="Suite" finished-at="2023-03-09T10:18:50 BRT" duration-ms="33037">
+  <suite started-at="2023-03-11T08:44:36 BRT" name="Suite" finished-at="2023-03-11T08:45:15 BRT" duration-ms="38901">
     <groups>
     </groups>
-    <test started-at="2023-03-09T10:18:17 BRT" name="Test" finished-at="2023-03-09T10:18:50 BRT" duration-ms="33037">
-      <class name="S5TestNGFrameworkForSelenium.E35IntroductionTestNGAnnotationsInTestNG.ThirdTestCase">
-        <test-method signature="test1()[pri:0, instance:S5TestNGFrameworkForSelenium.E35IntroductionTestNGAnnotationsInTestNG.ThirdTestCase@184cf7cf]" started-at="2023-03-09T10:18:50 BRT" name="test1" finished-at="2023-03-09T10:18:50 BRT" duration-ms="1" status="PASS">
+    <test started-at="2023-03-11T08:44:36 BRT" name="Test" finished-at="2023-03-11T08:45:15 BRT" duration-ms="38901">
+      <class name="S5TestNGFrameworkForSelenium.E39TestNGListenersExtentReports.NopCommerceTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:S5TestNGFrameworkForSelenium.E39TestNGListenersExtentReports.NopCommerceTests@56de5251]" started-at="2023-03-11T08:44:37 BRT" name="setup" finished-at="2023-03-11T08:45:03 BRT" duration-ms="26164" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method signature="test3()[pri:3, instance:S5TestNGFrameworkForSelenium.E35IntroductionTestNGAnnotationsInTestNG.ThirdTestCase@184cf7cf]" started-at="2023-03-09T10:18:50 BRT" name="test3" finished-at="2023-03-09T10:18:50 BRT" duration-ms="1" status="PASS">
+        </test-method> <!-- setup -->
+        <test-method signature="testLogo()[pri:1, instance:S5TestNGFrameworkForSelenium.E39TestNGListenersExtentReports.NopCommerceTests@56de5251]" started-at="2023-03-11T08:45:03 BRT" name="testLogo" finished-at="2023-03-11T08:45:03 BRT" duration-ms="52" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test3 -->
-        <test-method signature="test2()[pri:2, instance:S5TestNGFrameworkForSelenium.E35IntroductionTestNGAnnotationsInTestNG.ThirdTestCase@184cf7cf]" started-at="2023-03-09T10:18:50 BRT" name="test2" finished-at="2023-03-09T10:18:50 BRT" duration-ms="0" status="PASS">
+        </test-method> <!-- testLogo -->
+        <test-method signature="testLogin()[pri:2, instance:S5TestNGFrameworkForSelenium.E39TestNGListenersExtentReports.NopCommerceTests@56de5251]" started-at="2023-03-11T08:45:03 BRT" name="testLogin" finished-at="2023-03-11T08:45:11 BRT" duration-ms="8410" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test2 -->
-      </class> <!-- S5TestNGFrameworkForSelenium.E35IntroductionTestNGAnnotationsInTestNG.ThirdTestCase -->
-      <class name="S5TestNGFrameworkForSelenium.E35IntroductionTestNGAnnotationsInTestNG.SecondTest">
-        <test-method signature="openApp()[pri:10, instance:S5TestNGFrameworkForSelenium.E35IntroductionTestNGAnnotationsInTestNG.SecondTest@1d082e88]" started-at="2023-03-09T10:18:17 BRT" name="openApp" finished-at="2023-03-09T10:18:48 BRT" duration-ms="31794" status="PASS">
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLogout()[pri:3, instance:S5TestNGFrameworkForSelenium.E39TestNGListenersExtentReports.NopCommerceTests@56de5251]" started-at="2023-03-11T08:45:11 BRT" name="testLogout" finished-at="2023-03-11T08:45:15 BRT" depends-on-methods="S5TestNGFrameworkForSelenium.E39TestNGListenersExtentReports.NopCommerceTests.testLogin" duration-ms="3690" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- openApp -->
-        <test-method signature="login()[pri:50, instance:S5TestNGFrameworkForSelenium.E35IntroductionTestNGAnnotationsInTestNG.SecondTest@1d082e88]" started-at="2023-03-09T10:18:48 BRT" name="login" finished-at="2023-03-09T10:18:49 BRT" duration-ms="899" status="PASS">
+        </test-method> <!-- testLogout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:S5TestNGFrameworkForSelenium.E39TestNGListenersExtentReports.NopCommerceTests@56de5251]" started-at="2023-03-11T08:45:15 BRT" name="tearDown" finished-at="2023-03-11T08:45:15 BRT" duration-ms="261" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="closeApp()[pri:100, instance:S5TestNGFrameworkForSelenium.E35IntroductionTestNGAnnotationsInTestNG.SecondTest@1d082e88]" started-at="2023-03-09T10:18:49 BRT" name="closeApp" finished-at="2023-03-09T10:18:50 BRT" duration-ms="249" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeApp -->
-      </class> <!-- S5TestNGFrameworkForSelenium.E35IntroductionTestNGAnnotationsInTestNG.SecondTest -->
+        </test-method> <!-- tearDown -->
+      </class> <!-- S5TestNGFrameworkForSelenium.E39TestNGListenersExtentReports.NopCommerceTests -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

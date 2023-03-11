@@ -1,0 +1,12 @@
+Day-36
+---------
+Grouping
+
+
+Parameterization
+---------
+Passing parameters to the tests.
+
+
+1) @DataProvider
+2)  XML 

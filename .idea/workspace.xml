@@ -5,60 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b1fa2fb-bdf7-4dfa-bccd-11abfec593f5" name="Changes" comment="S5TestNGFrameworkForSelenium&#10;E36AnnotationsDependencyMethodsTypesOfAssertions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E35IntroductionTestNGAnnotationsInTestNG/Day34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E35IntroductionTestNGAnnotationsInTestNG/FirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E35IntroductionTestNGAnnotationsInTestNG/InstallingTestNGOnEclipse.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E35IntroductionTestNGAnnotationsInTestNG/SecondTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E35IntroductionTestNGAnnotationsInTestNG/ThirdTestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E35IntroductionTestNGAnnotationsInTestNG/myfile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E35IntroductionTestNGAnnotationsInTestNG/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions/AllAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions/AnnotationsDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions/AnnotationsDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions/Day35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions/DependentMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions/HardAssertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions/HardVsSoftAssertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions/pack1/Class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions/pack1/Class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions/pack1/Icon_" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions/pack1/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-S5TestNGFrameworkForSelenium.E35IntroductionTestNGAnnotationsInTestNG.SecondTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-S5TestNGFrameworkForSelenium.E35IntroductionTestNGAnnotationsInTestNG.ThirdTestCase.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite/Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/S4ApachePOIDataDrivenTestingUsingMSExcel/E34DataDrivenTestingUsingExcel/FixedDepositCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S4ApachePOIDataDrivenTestingUsingMSExcel/E34DataDrivenTestingUsingExcel/FixedDepositCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testdata/data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite/Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite/Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,18 +55,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E36AnnotationsDependencyMethodsTypesOfAssertions&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S5TestNGFrameworkForSelenium\E36AnnotationsDependencyMethodsTypesOfAssertions" />
@@ -125,59 +84,7 @@
       <recent name="S4ApachePOIDataDrivenTestingUsingMSExcel.E34DataDrivenTestingUsingExcel.chalenge" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.&lt;default&gt;">
-    <configuration name="DataDrivenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="S4ApachePOIDataDrivenTestingUsingMSExcel.E34DataDrivenTestingUsingExcel.challenge.DataDrivenTest" />
-      <module name="learn-selenium-with-java-live-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="S4ApachePOIDataDrivenTestingUsingMSExcel.E34DataDrivenTestingUsingExcel.challenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadingExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="S4ApachePOIDataDrivenTestingUsingMSExcel.E33ReadingExcelAndWritingDataIntoExcel.ReadingExcel" />
-      <module name="learn-selenium-with-java-live-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="S4ApachePOIDataDrivenTestingUsingMSExcel.E33ReadingExcelAndWritingDataIntoExcel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="S4ApachePOIDataDrivenTestingUsingMSExcel.E33ReadingExcelAndWritingDataIntoExcel.WritingDataIntoExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="S4ApachePOIDataDrivenTestingUsingMSExcel.E33ReadingExcelAndWritingDataIntoExcel.WritingDataIntoExcel" />
-      <module name="learn-selenium-with-java-live-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="S4ApachePOIDataDrivenTestingUsingMSExcel.E33ReadingExcelAndWritingDataIntoExcel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WritingDataIntoExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32.WritingDataIntoExcel" />
-      <module name="learn-selenium-with-java-live-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day32.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/extentreport.xml">
     <configuration name="C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E35IntroductionTestNGAnnotationsInTestNG/testng.xml" type="TestNG" singleton="false" temporary="true" nameIsGenerated="true">
       <module name="learn-selenium-with-java-live-project" />
       <shortenClasspath name="NONE" />
@@ -190,6 +97,113 @@
       <option name="TEST_OBJECT" value="SUITE" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E38ParallelTestingInvocationCount/testng.xml" type="TestNG" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="learn-selenium-with-java-live-project" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E38ParallelTestingInvocationCount/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\test-output" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/extentreport.xml" type="TestNG" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="learn-selenium-with-java-live-project" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/extentreport.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\test-output" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/testng.xml" type="TestNG" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="learn-selenium-with-java-live-project" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\test-output" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvocationCountDemo.test" type="TestNG" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="learn-selenium-with-java-live-project" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="S5TestNGFrameworkForSelenium.E38ParallelTestingInvocationCount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="S5TestNGFrameworkForSelenium.E38ParallelTestingInvocationCount" />
+      <option name="MAIN_CLASS_NAME" value="S5TestNGFrameworkForSelenium.E38ParallelTestingInvocationCount.InvocationCountDemo" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\test-output" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <option name="USE_DEFAULT_REPORTERS" value="true" />
       <option name="PROPERTIES_FILE" value="" />
       <properties />
@@ -249,20 +263,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DataDrivenTest" />
-      <item itemvalue="Application.ReadingExcel" />
-      <item itemvalue="Application.S4ApachePOIDataDrivenTestingUsingMSExcel.E33ReadingExcelAndWritingDataIntoExcel.WritingDataIntoExcel" />
-      <item itemvalue="Application.WritingDataIntoExcel" />
       <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG.C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/extentreport.xml" />
+      <item itemvalue="TestNG.C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/testng.xml" />
+      <item itemvalue="TestNG.C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E38ParallelTestingInvocationCount/testng.xml" />
+      <item itemvalue="TestNG.InvocationCountDemo.test" />
       <item itemvalue="TestNG.C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E35IntroductionTestNGAnnotationsInTestNG/testng.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/extentreport.xml" />
+        <item itemvalue="TestNG.C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E38ParallelTestingInvocationCount/testng.xml" />
+        <item itemvalue="TestNG.InvocationCountDemo.test" />
         <item itemvalue="TestNG.C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S5TestNGFrameworkForSelenium/E35IntroductionTestNGAnnotationsInTestNG/testng.xml" />
-        <item itemvalue="Application.ReadingExcel" />
-        <item itemvalue="Application.DataDrivenTest" />
-        <item itemvalue="Application.S4ApachePOIDataDrivenTestingUsingMSExcel.E33ReadingExcelAndWritingDataIntoExcel.WritingDataIntoExcel" />
-        <item itemvalue="Application.WritingDataIntoExcel" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678296824513</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="S5TestNGFrameworkForSelenium&#10;E36AnnotationsDependencyMethodsTypesOfAssertions">
+      <created>1678371679301</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678371679301</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
