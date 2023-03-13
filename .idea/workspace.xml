@@ -4,74 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b1fa2fb-bdf7-4dfa-bccd-11abfec593f5" name="Changes" comment="S5TestNGFrameworkForSelenium">
-      <change afterPath="$PROJECT_DIR$/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/reports/myReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/myReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E37DataProvidersAndGrouping/DataProviderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E37DataProvidersAndGrouping/Day36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E37DataProvidersAndGrouping/Grouping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E37DataProvidersAndGrouping/grouping.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E38ParallelTestingInvocationCount/Day37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E38ParallelTestingInvocationCount/InvocationCountDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E38ParallelTestingInvocationCount/ParamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E38ParallelTestingInvocationCount/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/Day38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/ExtentReportManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/MyListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/NopCommerceTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/extentreport.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/reports/myReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S5TestNGFrameworkForSelenium/E39TestNGListenersExtentReports/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/learn-selenium-with-java-live-project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/learn-selenium-with-java-live-project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-S5TestNGFrameworkForSelenium.E38ParallelTestingInvocationCount.InvocationCountDemo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-S5TestNGFrameworkForSelenium.E38ParallelTestingInvocationCount.ParamTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-S5TestNGFrameworkForSelenium.E39TestNGListenersExtentReports.MyTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-S5TestNGFrameworkForSelenium.E39TestNGListenersExtentReports.NopCommerceTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/mysuite/chrome test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/mysuite/chrome test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/mysuite/edge test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/mysuite/edge test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/mysuite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/learn-selenium-with-java-live-project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/mysuite/chrome test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/mysuite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/mysuite/edge test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/mysuite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/mysuite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/mysuite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/mysuite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/mysuite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/mysuite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/mysuite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/mysuite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/mysuite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+    <list default="true" id="2b1fa2fb-bdf7-4dfa-bccd-11abfec593f5" name="Changes" comment="Section 6 Page Object Model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite/Test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Suite/Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite/Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -428,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678535299831</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Section 6 Page Object Model">
+      <created>1678535644141</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678535644141</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -449,7 +390,8 @@
     <MESSAGE value="Desafio automação com Data Driven" />
     <MESSAGE value="S5TestNGFrameworkForSelenium&#10;E36AnnotationsDependencyMethodsTypesOfAssertions" />
     <MESSAGE value="S5TestNGFrameworkForSelenium" />
-    <option name="LAST_COMMIT_MESSAGE" value="S5TestNGFrameworkForSelenium" />
+    <MESSAGE value="Section 6 Page Object Model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 6 Page Object Model" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
