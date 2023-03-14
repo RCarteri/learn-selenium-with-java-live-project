@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b1fa2fb-bdf7-4dfa-bccd-11abfec593f5" name="Changes" comment="43. Framework Designing - Part 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2b1fa2fb-bdf7-4dfa-bccd-11abfec593f5" name="Changes" comment="Section 7: Hybrid Driven Framework Development with Project (eCommerce Application)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -383,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678786232261</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Section 7: Hybrid Driven Framework Development with Project (eCommerce Application)">
+      <created>1678806294372</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678806294372</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,7 +411,8 @@
     <MESSAGE value="S5TestNGFrameworkForSelenium" />
     <MESSAGE value="Section 6 Page Object Model" />
     <MESSAGE value="43. Framework Designing - Part 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="43. Framework Designing - Part 3" />
+    <MESSAGE value="Section 7: Hybrid Driven Framework Development with Project (eCommerce Application)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 7: Hybrid Driven Framework Development with Project (eCommerce Application)" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
