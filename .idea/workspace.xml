@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b1fa2fb-bdf7-4dfa-bccd-11abfec593f5" name="Changes" comment="Section 7: Hybrid Driven Framework Development with Project (eCommerce Application)" />
+    <list default="true" id="2b1fa2fb-bdf7-4dfa-bccd-11abfec593f5" name="Changes" comment="Section 8 CI - Maven, Git, Github &amp; Jenkins">
+      <change afterPath="$PROJECT_DIR$/src/main/java/S8CIMavenGitGithubJenkins/pt2/Day47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/S8CIMavenGitGithubJenkins/pt2/git-workflow.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S8CIMavenGitGithubJenkins/Day46.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S8CIMavenGitGithubJenkins/pt1/Day46.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S8CIMavenGitGithubJenkins/Git+Installation+Steps.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S8CIMavenGitGithubJenkins/pt1/Git+Installation+Steps.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S8CIMavenGitGithubJenkins/Git-GitHub.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S8CIMavenGitGithubJenkins/pt1/Git-GitHub.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S8CIMavenGitGithubJenkins/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S8CIMavenGitGithubJenkins/pt1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S8CIMavenGitGithubJenkins/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S8CIMavenGitGithubJenkins/pt1/run.bat" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ruehlein/git/openCart",
+    "last_opened_file_path": "C:/Users/ruehlein/git/learn-selenium-with-java-live-project/src/main/java/S8CIMavenGitGithubJenkins/pt2",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -55,13 +64,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S8CIMavenGitGithubJenkins\pt2" />
       <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S5TestNGFrameworkForSelenium\E36AnnotationsDependencyMethodsTypesOfAssertions" />
       <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S4ApachePOIDataDrivenTestingUsingMSExcel\E34DataDrivenTestingUsingExcel" />
       <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\test\java" />
       <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S4ApachePOIDataDrivenTestingUsingMSExcel\E34DataDrivenTestingUsingExcel\chalenge" />
-      <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S4ApachePOIDataDrivenTestingUsingMSExcel\E33ReadingExcelAndWritingDataIntoExcel" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S8CIMavenGitGithubJenkins\pt1" />
       <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\testdata" />
       <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S3SeleniumWebDriver\E30HandleMouseEvents" />
       <recent name="C:\Users\ruehlein\git\learn-selenium-with-java-live-project\src\main\java\S3SeleniumWebDriver\E21SeleniumLocatorsXPath" />
@@ -388,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678806294372</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Section 8 CI - Maven, Git, Github &amp; Jenkins">
+      <created>1678808244989</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678808244989</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,7 +429,8 @@
     <MESSAGE value="Section 6 Page Object Model" />
     <MESSAGE value="43. Framework Designing - Part 3" />
     <MESSAGE value="Section 7: Hybrid Driven Framework Development with Project (eCommerce Application)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 7: Hybrid Driven Framework Development with Project (eCommerce Application)" />
+    <MESSAGE value="Section 8 CI - Maven, Git, Github &amp; Jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 8 CI - Maven, Git, Github &amp; Jenkins" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
