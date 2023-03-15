@@ -4,8 +4,9 @@ This repository contains the course materials
 
 **Learn Selenium with Java, Cucumber + Live Project**
 
-performed on [Udemy](https://www.udemy.com/course/learn-selenium-with-java-live-project/).* You will learn how to write test scripts using Selenium WebDriver.
+performed on [Udemy](https://www.udemy.com/course/learn-selenium-with-java-live-project/).
 
+* You will learn how to write test scripts using Selenium WebDriver.
 * You will know how to identify various web elements using Selenium.
 * You will know how to work with Selenium Grid.
 * You will know how to design frameworks from scratch.
